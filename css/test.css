@@ -35,6 +35,13 @@ a {
     background-color: lavender;
     margin-bottom: 20px;
 }
+
+.section a {
+    background: rebeccapurple;
+    color: white;
+    padding: 8px 15px;
+    margin-left: 10px;
+}
 ul {
     display: flex;
     list-style-type: none;
@@ -44,6 +51,10 @@ ul {
 ul > li {
     margin-right: 30px;
 }
+
+ul li:last-child{
+    margin-right: 0px;
+    }
 .box {
     display: flex;
     margin-bottom: 30px;
