@@ -1,0 +1,14 @@
+body {
+    font-family: 'Nunito Sans', sans-serif;
+}
+h1 {
+color: purple;
+background-color: rgb(88, 88, 247);
+font-weight: 900;    
+}
+hr {
+    color: purple;
+    }
+p {
+    color: darkred;
+}
